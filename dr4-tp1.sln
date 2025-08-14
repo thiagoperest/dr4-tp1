@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicio_1", "exercicio_1", "{6FFDB0A7-A8C9-4380-B6C6-E4768018E523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{ED853B40-2F79-411D-92D3-EF8590748960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED853B40-2F79-411D-92D3-EF8590748960} = {6FFDB0A7-A8C9-4380-B6C6-E4768018E523}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED853B40-2F79-411D-92D3-EF8590748960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED853B40-2F79-411D-92D3-EF8590748960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED853B40-2F79-411D-92D3-EF8590748960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED853B40-2F79-411D-92D3-EF8590748960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

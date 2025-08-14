@@ -1,0 +1,14 @@
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/bin/Debug/net9.0/DiscountCalculator
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/bin/Debug/net9.0/DiscountCalculator.deps.json
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/bin/Debug/net9.0/DiscountCalculator.runtimeconfig.json
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/bin/Debug/net9.0/DiscountCalculator.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/bin/Debug/net9.0/DiscountCalculator.pdb
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.AssemblyInfoInputs.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.AssemblyInfo.cs
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.csproj.CoreCompileInputs.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/refint/DiscountCalculator.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.pdb
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.genruntimeconfig.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/ref/DiscountCalculator.dll
