@@ -12,3 +12,4 @@
 /Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.pdb
 /Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.genruntimeconfig.cache
 /Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/ref/DiscountCalculator.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/DiscountCalculator/obj/Debug/net9.0/DiscountCalculator.sourcelink.json
