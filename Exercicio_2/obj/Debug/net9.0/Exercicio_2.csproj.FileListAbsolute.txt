@@ -1,0 +1,15 @@
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/bin/Debug/net9.0/Exercicio_2
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/bin/Debug/net9.0/Exercicio_2.deps.json
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/bin/Debug/net9.0/Exercicio_2.runtimeconfig.json
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/bin/Debug/net9.0/Exercicio_2.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/bin/Debug/net9.0/Exercicio_2.pdb
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.AssemblyInfoInputs.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.AssemblyInfo.cs
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.csproj.CoreCompileInputs.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.sourcelink.json
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/refint/Exercicio_2.dll
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.pdb
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/Exercicio_2.genruntimeconfig.cache
+/Users/thiagoperes/RiderProjects/dr4-tp1/Exercicio_2/obj/Debug/net9.0/ref/Exercicio_2.dll
