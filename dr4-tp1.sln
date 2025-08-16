@@ -8,6 +8,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicio_2", "exercicio_2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2", "Exercicio_2\Exercicio_2.csproj", "{2B6AE9B2-EE67-4224-89C7-62F594C4A71F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicio_3", "exercicio_3", "{76F381DA-2A2A-4552-8F07-CFFD43517A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3", "Exercicio_3\Exercicio_3.csproj", "{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +20,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{ED853B40-2F79-411D-92D3-EF8590748960} = {6FFDB0A7-A8C9-4380-B6C6-E4768018E523}
 		{2B6AE9B2-EE67-4224-89C7-62F594C4A71F} = {3233BAEA-ACA0-4C8D-A862-C454AD1B7A03}
+		{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82} = {76F381DA-2A2A-4552-8F07-CFFD43517A92}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ED853B40-2F79-411D-92D3-EF8590748960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -26,5 +31,9 @@ Global
 		{2B6AE9B2-EE67-4224-89C7-62F594C4A71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6AE9B2-EE67-4224-89C7-62F594C4A71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B6AE9B2-EE67-4224-89C7-62F594C4A71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9F6FC1-5D7E-4995-84A7-9EEF706A0E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
