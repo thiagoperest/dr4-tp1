@@ -1,0 +1,49 @@
+﻿@page
+@model Exercicio_11.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Manipulação de Strings com Delegates</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="FirstName" class="form-label">Nome</label>
+        <input type="text" class="form-control" id="FirstName" name="FirstName" asp-for="FirstName" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="LastName" class="form-label">Sobrenome</label>
+        <input type="text" class="form-control" id="LastName" name="LastName" asp-for="LastName" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+
+@if (Model.IsProcessed)
+{
+    <div class="mt-4">
+        <h3>Resultados:</h3>
+
+        <div class="alert alert-info">
+            <h5>1. Concatenação (Nome + Sobrenome):</h5>
+            <p><strong>@Model.Step1Result</strong></p>
+        </div>
+
+        <div class="alert alert-success">
+            <h5>2. Conversão para Maiúsculas:</h5>
+            <p><strong>@Model.Step2Result</strong></p>
+        </div>
+
+        <div class="alert alert-warning">
+            <h5>3. Remoção de Espaços em Branco:</h5>
+            <p><strong>@Model.Step3Result</strong></p>
+        </div>
+        
+        <div class="alert alert-primary">
+            <h5>Resultado Final Com Delegates:</h5>
+            <p><strong>@Model.FinalResult</strong></p>
+        </div>
+    </div>
+}
