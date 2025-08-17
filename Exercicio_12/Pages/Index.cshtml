@@ -1,0 +1,65 @@
+﻿@page
+@model Exercicio_12.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Sistema de Cadastro de Eventos</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="EventTitle" class="form-label">Título do Evento</label>
+        <input type="text" class="form-control" id="EventTitle" name="EventTitle" asp-for="EventTitle" required>
+    </div>
+    
+    <div class="mb-3">
+        <label for="EventDate" class="form-label">Data do Evento</label>
+        <input type="datetime-local" class="form-control" id="EventDate" name="EventDate" asp-for="EventDate" required>
+    </div>
+    
+    <div class="mb-3">
+        <label for="EventLocation" class="form-label">Local do Evento</label>
+        <input type="text" class="form-control" id="EventLocation" name="EventLocation" asp-for="EventLocation" required>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>
+
+@if (Model.IsEventCreated)
+{
+    <div class="mt-4">
+        <div class="alert alert-success">
+            <h4>Evento Cadastrado!</h4>
+            <p><strong>Título:</strong> @Model.CreatedEvent.Titulo</p>
+            <p><strong>Data:</strong> @Model.CreatedEvent.Data.ToString("dd/MM/yyyy HH:mm")</p>
+            <p><strong>Local:</strong> @Model.CreatedEvent.Local</p>
+        </div>
+    </div>
+}
+
+@if (Model.EventsList.Any())
+{
+    <div class="mt-4">
+        <h3>Eventos Cadastrados:</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Título</th>
+                    <th>Data</th>
+                    <th>Local</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var evento in Model.EventsList)
+                {
+                    <tr>
+                        <td>@evento.Titulo</td>
+                        <td>@evento.Data.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>@evento.Local</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
